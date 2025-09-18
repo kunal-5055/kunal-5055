@@ -1,6 +1,8 @@
 ![banner](banner.png)
 
-# Hi there 👋, I'm Kunal Jawale  
+# 👋Hello World, I'm Kunal Jawale 
+
+💻 Breaking barriers to build stronger defenses
 
 🚀 **Cybersecurity Enthusiast | VAPT Analyst | Security Researcher**  
 
@@ -12,7 +14,7 @@ Here I share my projects, writeups, and learning journey in the field of cyberse
 ## 🛠️ Skills & Tools  
 - 🔐 Penetration Testing (Web, Network, Mobile)  
 - 🕵️ Vulnerability Assessment & Exploitation  
-- 🌐 Kali Linux | Burp Suite | Metasploit | Nmap | Wireshark  
+- 🌐 Kali Linux | Burp Suite | Metasploit | Nmap | Wireshark | Nessus | Splunk | Openvas | Snort
 - 💻 Python | Bash | SQL  
 
 ---
