@@ -1,6 +1,6 @@
 ![banner](banner.png)
 
-# 👋Hello World, I'm Kunal 
+# 👋Hello , I'm Kunal 
 
 💻 Breaking barriers to build stronger defenses
 
